@@ -1,0 +1,3 @@
+com\cars\messaging\MessagingApplication.class
+com\cars\messaging\ServletInitializer.class
+com\cars\messaging\WebSocketConfig.class
